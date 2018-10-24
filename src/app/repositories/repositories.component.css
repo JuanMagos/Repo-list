@@ -1,0 +1,18 @@
+.repoName{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%
+}
+li {
+    list-style: none;
+    border: 1px solid silver;
+    background-color: rgba(201, 219, 224, 0.596);
+}
+
+a[role="button"]{
+    display: flex;
+    line-height: 150%
+}
+
+.boton{
+    padding-left: 45%
+}
